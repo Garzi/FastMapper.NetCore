@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastMapper.NetCore.Test", "FastMapper.NetCore.Test\FastMapper.NetCore.Test.csproj", "{84603277-6390-4F0F-85E1-22C293E65188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastMapper.NetCore", "FastMapper.NetCore\FastMapper.NetCore.csproj", "{2CE2A399-9729-4A7F-8F9E-4E28262EC48D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84603277-6390-4F0F-85E1-22C293E65188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84603277-6390-4F0F-85E1-22C293E65188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84603277-6390-4F0F-85E1-22C293E65188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84603277-6390-4F0F-85E1-22C293E65188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE2A399-9729-4A7F-8F9E-4E28262EC48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE2A399-9729-4A7F-8F9E-4E28262EC48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE2A399-9729-4A7F-8F9E-4E28262EC48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE2A399-9729-4A7F-8F9E-4E28262EC48D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87A9D7EF-7560-41A5-9E2C-44F4FD01834E}
+	EndGlobalSection
+EndGlobal
