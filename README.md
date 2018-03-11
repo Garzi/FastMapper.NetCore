@@ -6,3 +6,8 @@ Base Repo
 
 https://github.com/FastMapper/FastMapper
 
+
+
+Nuget
+
+    Install-Package FastMapper.NetCore
